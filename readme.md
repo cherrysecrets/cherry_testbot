@@ -13,7 +13,7 @@ If you want to deploy this app on Heroku, there's a one-click setup for that. Cl
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cherrysecrets/cherry)
 
 
-## Config Vars
+## Config Vars on Heroku
 
 APP_URL-	https://cherry-testbot.herokuapp.com/
 
