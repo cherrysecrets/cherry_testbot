@@ -13,8 +13,18 @@ If you want to deploy this app on Heroku, there's a one-click setup for that. Cl
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cherrysecrets/cherry)
 
 
+## Deploy a GitHub branch
 
-What went wrong:
+Activity Feed |  Build Log ID 58f374b8-a10f-4d1c-9eaf-c48be65c8267
+-----> Building on the Heroku-20 stack
+-----> Determining which buildpack to use for this app
+ !     No default language could be detected for this app.
+			HINT: This occurs when Heroku cannot detect the buildpack to use for this application automatically.
+			See https://devcenter.heroku.com/articles/buildpacks
+ !     Push failed
+ 
+ 
+## What went wrong:
 
 -include requirement.txt 
 
