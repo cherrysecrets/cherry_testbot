@@ -23,3 +23,5 @@ What went wrong:
 -no pip found, need to install
 
 -no flask found, need to install
+
+-no modules requests found
