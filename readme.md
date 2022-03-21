@@ -13,6 +13,19 @@ If you want to deploy this app on Heroku, there's a one-click setup for that. Cl
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cherrysecrets/cherry)
 
 
+## Config Vars
+
+APP_URL	https://cherry-testbot.herokuapp.com/
+
+BOT_TOKEN	5219846265:AAHeaXYOyUIlKYBssKbZOpQy6o00W6cF4PQ	
+
+ENV	True	
+
+PROJECT_NAME	showandtell	
+
+
+
+
 ## Deploy a GitHub branch
 
 Activity Feed |  Build Log ID 58f374b8-a10f-4d1c-9eaf-c48be65c8267
