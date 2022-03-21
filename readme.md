@@ -15,18 +15,18 @@ If you want to deploy this app on Heroku, there's a one-click setup for that. Cl
 
 ## Config Vars
 
-APP_URL	https://cherry-testbot.herokuapp.com/
+APP_URL-	https://cherry-testbot.herokuapp.com/
 
-BOT_TOKEN	5219846265:AAHeaXYOyUIlKYBssKbZOpQy6o00W6cF4PQ	
+BOT_TOKEN-	5219846265:AAHeaXYOyUIlKYBssKbZOpQy6o00W6cF4PQ	
 
-ENV	True	
+ENV-	True	
 
-PROJECT_NAME	showandtell	
-
-
+PROJECT_NAME-	showandtell	
 
 
-## Deploy a GitHub branch
+
+
+## Deploy a GitHub branch failed
 
 Activity Feed |  Build Log ID 58f374b8-a10f-4d1c-9eaf-c48be65c8267
 -----> Building on the Heroku-20 stack
