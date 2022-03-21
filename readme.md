@@ -16,8 +16,10 @@ If you want to deploy this app on Heroku, there's a one-click setup for that. Cl
 
 What went wrong:
 
--requirement.txt 
+-include requirement.txt 
 
 -install from python 2 to new version of python3(figure out how to install) 
 
--install flask
+-no pip found, need to install
+
+-no flask found, need to install
