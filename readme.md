@@ -12,3 +12,12 @@ If you want to deploy this app on Heroku, there's a one-click setup for that. Cl
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cherrysecrets/cherry)
 
+
+
+What went wrong:
+
+-requirement.txt 
+
+-install from python 2 to new version of python3(figure out how to install) 
+
+-install flask
